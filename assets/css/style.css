@@ -1,0 +1,28 @@
+container {
+    max-width: 960px;
+}
+
+body {
+    font-family: 'IM Fell English SC', serif;
+}
+
+#shine {
+    display: inline-block;
+    padding: 15px;
+
+}
+
+.jumbotron {
+    font-family: 'IM Fell English SC', serif;
+    color: white;
+    text-shadow: 2px 2px black;
+    background-image: url('http://ceocoachinginternational.com/wp-content/uploads/2016/01/Untitled-design-150-900x.png');
+    padding: 20px;
+    margin-top: 20px;
+    background-size: cover;
+}
+
+#randomNumber {
+    text-align: center;
+
+}
